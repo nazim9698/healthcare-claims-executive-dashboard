@@ -91,4 +91,4 @@ SUM(claim_data[Paid Amount])
 ---
 
 ## Dashboard Preview
-[Dashboard](Dashboard_Screenshot.png)
+![Dashboard](Dashboard_Screenshot.png)
