@@ -89,6 +89,15 @@ SUM(claim_data[Paid Amount])
 8. What is the AR status distribution?
 
 ---
+## Skills Demonstrated
+
+- Power BI Dashboard Development
+- Data Modeling
+- DAX Measures
+- KPI Development
+- Data Visualization
+- Healthcare Claims Analysis
+- Business Reporting
 
 ## Dashboard Preview
 ![Dashboard](Dashboard_Screenshot.png)
